@@ -1,7 +1,7 @@
-git init->to initialize git
+git init->to initialize git in present folder
 git status-> list all untracked files
-git add -A->adding all changes to staging area(SA)
+git add -A->adding all untracked files to staging area(SA)
 git commit -M->adding changes to local repositary
-git remote add test path-> 
+git remote add name(test) path-> remote add
 git remote -v-> check the remote is added
 git push -u name branch->push to the github
